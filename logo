@@ -1,0 +1,27 @@
+
+public class logo{
+
+   
+	public static void printlogo(){
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+        System.out.println("");
+        System.out.println("");
+        System.out.println(" "
+        		+ ""
+        		+ "____________________ 		\r\n"
+        		+ "|  _  \\/  ___| ___   	\r\n"
+        		+ "| | | |\\ `--.| |_/ /   	\r\n"
+        		+ "| | | | `--. \\ ___    	\r\n"
+        		+ "| |/ / /\\__/ / |_/ /    \r\n"
+        		+ "|___/  \\____/\\____/ 	");
+       
+    }
+	
+	
+	
+	
+}
+
